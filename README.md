@@ -98,3 +98,14 @@ flowchart LR
     E --> F[Watermark Embedding]
     F --> G[Inverse Transform]
     G --> H[Watermarked Forensic Evidence]
+```
+
+
+## Credits:
+Developed by: VATNALA SHIVA GOPTHREYA KUMAR (AM.SC.P2CSN24012)
+
+Program: M.Tech Cybersecurity Systems & Networks
+
+Institution: Amrita School of Computing
+
+Guide: Ms.SREELAKSHMI 
